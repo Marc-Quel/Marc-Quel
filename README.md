@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marc-Quel.
+- 👀 I’m interested in backend and app-development.
+- 🌱 I’m currently learning passport and jsonwebtoken.
+- 📫 How to reach me marcuskellogs@gmail.com
