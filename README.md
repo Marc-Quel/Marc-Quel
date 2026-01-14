@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Marc-Quel.
-- 👀 I’m interested in frontend, backend and web-app-development.
-- 🌱 I’m currently learning React.
-- 📫 How to reach me https://www.linkedin.com/in/marcquel/ or marcqueldev@gmail.com.
+👋 Full-Stack Engineer with 3+ years of experience building high-impact fintech and Web3 applications. 🦀 Architect of Draco Platform, specialized in Solana (Anchor/Rust) and decentralized systems. 🛠️ Passionate about financial transparency, internal tooling, and cloud-native infrastructure. 📫 Connect: LinkedIn | marcqueldev@gmail.com
